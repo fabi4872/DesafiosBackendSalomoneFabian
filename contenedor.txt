@@ -1,0 +1,105 @@
+[
+  {
+    "title": "Camisa a cuadros manga larga",
+    "price": 5000,
+    "thumbnail": "https://res.cloudinary.com/dsirswwk0/image/upload/v1668121077/Ropa/camisa4-removebg-preview_dtzrry.png",
+    "id": 1
+  },
+  {
+    "title": "Pantalón a cuadros",
+    "price": 8900,
+    "thumbnail": "https://res.cloudinary.com/dsirswwk0/image/upload/v1668118438/Ropa/pantalon-jogger_njijpi.png",
+    "id": 4
+  },
+  {
+    "title": "Remera manga corta azul",
+    "price": 4000,
+    "thumbnail": "https://res.cloudinary.com/dsirswwk0/image/upload/v1667761921/Ropa/remera_corta_azul_cnwedz.png",
+    "id": 5
+  },
+  {
+    "title": "Vaquero azul marino",
+    "price": 9500,
+    "thumbnail": "https://res.cloudinary.com/dsirswwk0/image/upload/v1668116772/Ropa/jack-jones-pantalones-vaqueros_ouxz0y.png",
+    "id": 6
+  },
+  {
+    "title": "Remera manga corta roja",
+    "price": 4100,
+    "thumbnail": "https://res.cloudinary.com/dsirswwk0/image/upload/v1668113483/Ropa/remera-corta-nylon_zqfyxb.png",
+    "id": 7
+  },
+  {
+    "title": "Sweater manga larga verde de algodón",
+    "price": 7400,
+    "thumbnail": "https://res.cloudinary.com/dsirswwk0/image/upload/v1668119756/Ropa/sweater5-removebg-preview_oxzz7f.png",
+    "id": 8
+  },
+  {
+    "title": "Remera de entrenamiento Everlast manga larga",
+    "price": 5100,
+    "thumbnail": "https://res.cloudinary.com/dsirswwk0/image/upload/v1668113951/Ropa/remera-manga-larga-everlast_ghxb3f.png",
+    "id": 9
+  },
+  {
+    "title": "Vaquero celeste con desgaste",
+    "price": 8900,
+    "thumbnail": "https://res.cloudinary.com/dsirswwk0/image/upload/v1668117346/Ropa/pantalon-azul-claro_jonhox.png",
+    "id": 10
+  },
+  {
+    "name": "Fabian",
+    "lastName": "Salomone",
+    "id": 11
+  },
+  {
+    "name": "Fabian",
+    "lastName": "Salomone",
+    "id": 12
+  },
+  {
+    "name": "Fabian",
+    "lastName": "Salomone",
+    "id": 13
+  },
+  {
+    "name": "Fabian",
+    "lastName": "Salomone",
+    "id": 14
+  },
+  {
+    "name": "Fabian",
+    "lastName": "Salomone",
+    "id": 15
+  },
+  {
+    "name": "Fabian",
+    "lastName": "Salomone",
+    "id": 16
+  },
+  {
+    "name": "Fabian",
+    "lastName": "Salomone",
+    "id": 17
+  },
+  {
+    "name": "Fabian",
+    "lastName": "Salomone",
+    "id": 18
+  },
+  {
+    "name": "Fabian",
+    "lastName": "Salomone",
+    "id": 19
+  },
+  {
+    "name": "Fabian",
+    "lastName": "Salomone",
+    "id": 20
+  },
+  {
+    "name": "Fabian",
+    "lastName": "Salomone",
+    "id": 21
+  }
+]
